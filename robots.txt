@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uecethi.handyman-nelson.com/sitemap.xml
